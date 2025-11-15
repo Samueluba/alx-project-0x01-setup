@@ -1,1 +1,8 @@
+import React from "react";
+
+const Header: React.FC = () => {
+  return <header className="p-4 bg-gray-100">Header</header>;
+};
+
+export default Header;
 
